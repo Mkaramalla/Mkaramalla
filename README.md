@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Mkaramalla
-- 👀 I’m interested in PHP and Laravel
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Mohamed KaramAllah
+- 👀 I’m interested in Web development, e-learning solutions, project analysis, and digital innovation.
+  
+- 🌱 I’m A dedicated **Web Developer** with a strong focus on creating **educational platforms** and delivering **innovative digital solutions**.  
+I’m passionate about transforming ideas into scalable products that combine **technical excellence** with **strategic insight**.
+
 - 📫 How to reach me https://www.linkedin.com/in/mohmmed-karamalluh-a6541b169/
 
 <!---
